@@ -10,6 +10,7 @@ void game_init() {
 }
 
 int main() {
+    printf("ww");
     return 0;
 }
 
