@@ -31,9 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="game.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="game.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

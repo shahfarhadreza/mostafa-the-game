@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1686162831 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\game.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	"game.h"
+
+1686162678 e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\game.h
+
