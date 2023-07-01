@@ -1,20 +1,29 @@
 # depslib dependency file v1.0
-1686337226 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\game.c
+1688189762 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\game.c
 	"game.h"
 
-1686337838 e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\game.h
+1688160304 e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\game.h
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
 	<assert.h>
 	<windows.h>
 
-1686338486 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\player.c
+1688161243 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\player.c
 	"game.h"
 
-1686332250 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\sprite.c
+1688157353 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\sprite.c
 	"game.h"
 
-1686335758 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\enemy.c
+1688189311 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\enemy.c
+	"game.h"
+
+1688158827 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\character.c
+	"game.h"
+
+1688070111 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\graphics.c
+	"game.h"
+
+1687523895 source:e:\programming-stuff\game-development\mostafa-the-game\mostafa-the-game\src\util.c
 	"game.h"
 

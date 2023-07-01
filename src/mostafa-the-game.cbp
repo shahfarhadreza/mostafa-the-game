@@ -41,6 +41,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="character.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="enemy.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -48,10 +51,16 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="game.h" />
+		<Unit filename="graphics.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="player.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="sprite.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="util.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
