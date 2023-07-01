@@ -1,2 +1,2 @@
 # mostafa-the-game
-This is me trying to remake the Cardiac &amp; Dinosaurs game in C :) 
+This is me trying to remake the Cadillacs and Dinosaurs game in C :) 
